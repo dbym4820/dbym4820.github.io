@@ -1,0 +1,67 @@
+baseurl = "https://dbym4820.github.io/"
+author = "Tomoki Aburatani"
+title = "経験値をためています"
+languageCode = "ja"
+theme = "foundation-theme"
+enableRobotsTXT = true
+SectionPagesMenu = ["main", "social"]
+
+[params.meta]
+description = "大阪府立大学 人間社会システム科学研究科 現代システム科学専攻 油谷知岐"
+keywords = "大阪府立大学　知識システム　教育システム情報学　学習科学　知識科学　人工知能　学習態度"
+
+[params.hero]
+herotitle = "油谷知岐"
+herodiscription = ""
+
+[params.main]
+contentOneTitle = "研究テーマ"
+contentOneBody = "プレゼンテーションの設計活動を題材とした学習態度変容促進システム<br />論文一覧は<a href=\"/papers\">こちら</a>"
+
+contentTwoTitle = "興味(キーワード)"
+contentTwoBody = "人工知能　オントロジー　学習態度　自己調整学習　暗黙知"
+
+contentThreeTitle = "活動"
+contentThreeBody = "<ul><li>本州四端踏破(2015年8月)</li><li>関西Lispユーザ会設立・代表(2016年12月)</li><li>大阪府立大学　プログラミングサークル結成(2017年5月)</li></ul>"
+
+
+[params.footer]
+github = "https://github.com/dbym4820"
+facebook = "https://www.facebook.com/tomoki.aburatani.1"
+twitter = "https://twitter.com/dbym4820"
+email = "aburatanitomoki[at]gmail.com"
+labsite = "http://ks.mi.s.osakafu-u.ac.jp/"
+kansailisp = "https://kansai-lisp-users.github.io/"
+aisl = "http://akibalab.info/"
+
+
+[[menu.main]]
+name = "Top"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Products"
+url = "/products"
+weight = 3
+
+[[menu.main]]
+name = "Papers"
+url = "/papers"
+weight = 4
+
+[[menu.main]]
+name = "Dialy"
+url = "/post"
+weight = 5
+
+
+[[menu.main]]
+name = "Others"
+url = "/others"
+weight = 6
