@@ -10,21 +10,6 @@ SectionPagesMenu = ["main", "social"]
 description = "大阪府立大学 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野 油谷知岐"
 keywords = "大阪府立大学　知識システム　教育システム情報学　学習科学　知識科学　人工知能　学習態度"
 
-[params.hero]
-herotitle = "油谷知岐"
-herodiscription = ""
-
-[params.main]
-contentOneTitle = "研究テーマ"
-contentOneBody = "学習方略アウェアなメタ思考スキル育成環境と成長モデルの開発<br />論文一覧は<a href=\"/papers\">こちら</a>"
-
-contentTwoTitle = "興味(キーワード)"
-contentTwoBody = "ITS(Intelligent Tutoring System)　人工知能　オントロジー　セマンティックWeb　学習態度　自己調整学習　暗黙知　メタ認知　学習方略"
-
-contentThreeTitle = "主な経歴"
-contentThreeBody = "<ul><li>大阪府立大学　現代システム科学域　知識情報システム学類　入学(2013年4月)</li><li>本州四端踏破(2015年8月)</li><li>大阪府立大学　現代システム科学域　知識情報システム学類　卒業(2017年3月)</li><li>関西Lispユーザ会設立・代表(2016年12月)</li><li>大阪府立大学大学院　人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　入学(2017年4月)</li><li>大阪府立大学　プログラミングサークル結成(2017年5月)</li><li>大阪府立大学大学院　人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　修士課程　卒業見込み(2019年3月)</li><li>大阪府立大学大学院　人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　博士課程（博士後期課程）　入学見込み(2019年4月)</li></ul>"
-
-
 [params.footer]
 github = "https://github.com/dbym4820"
 facebook = "https://www.facebook.com/tomoki.aburatani.1"
@@ -42,22 +27,11 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 2
-
-[[menu.main]]
 name = "Products"
 url = "/products"
-weight = 3
-
-[[menu.main]]
-name = "Papers"
-url = "/papers"
-weight = 4
-
+weight = 2
 
 [[menu.main]]
 name = "Others"
 url = "/others"
-weight = 5
+weight = 3
