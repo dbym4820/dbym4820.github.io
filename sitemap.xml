@@ -3,6 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dbym4820.github.io/</loc>
+    <lastmod>2019-04-01T14:34:58+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/journals/20190401-ieice-letter/</loc>
+    <lastmod>2019-04-01T14:34:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/journals/</loc>
+    <lastmod>2019-04-01T14:34:58+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/presentations/</loc>
+    <lastmod>2019-03-24T05:28:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/presentations/20190324-jsise%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/</loc>
+    <lastmod>2019-03-24T05:28:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/foreign-proceedings/20181215-icce2018-dsc/</loc>
+    <lastmod>2018-12-15T14:34:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/foreign-proceedings/</loc>
+    <lastmod>2018-12-15T14:34:58+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/presentations/20181204-%E6%95%99%E8%82%B2%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%8B%A5%E6%89%8B%E3%81%AE%E4%BC%9A2018/</loc>
+    <lastmod>2018-12-04T05:28:18+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2018-02-03T18:00:11+09:00</lastmod>
   </url>
@@ -13,26 +57,19 @@
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/</loc>
-    <lastmod>2018-02-03T18:00:11+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dbym4820.github.io/others/</loc>
     <lastmod>2018-02-03T18:00:11+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/foreign-proceeding/20171214-acis-6th/</loc>
+    <loc>https://dbym4820.github.io/papers/foreign-proceedings/20171214-acis-6th/</loc>
     <lastmod>2017-12-12T14:34:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/</loc>
-    <lastmod>2017-12-12T14:34:58+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://dbym4820.github.io/presentations/20171204-%E6%95%99%E8%82%B2%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%8B%A5%E6%89%8B%E3%81%AE%E4%BC%9A2017/</loc>
+    <lastmod>2017-12-04T05:28:18+09:00</lastmod>
   </url>
   
   <url>
@@ -67,28 +104,19 @@
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/acis-6th/</loc>
-    <lastmod>2017-09-22T14:34:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9B%E3%82%9A%E3%82%B9%E3%82%BF%E3%83%BC/</loc>
     <lastmod>2017-09-21T16:43:12+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/jsai-alst-80th/</loc>
-    <lastmod>2017-09-21T14:34:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dbym4820.github.io/papers/jsise-%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A-42th/</loc>
-    <lastmod>2017-09-21T14:34:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dbym4820.github.io/papers/japan-proceedings/20170821-jsise%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A-42th/</loc>
     <lastmod>2017-08-21T14:34:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/japan-proceedings/</loc>
+    <lastmod>2017-08-21T14:34:58+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -107,17 +135,22 @@
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/jsise-%E5%AD%A6%E7%94%9F%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A-2016/</loc>
-    <lastmod>2016-03-20T14:34:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dbym4820.github.io/papers/japan-proceedings/20160326-jsise-%E5%AD%A6%E7%94%9F%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A-2016/</loc>
     <lastmod>2016-03-20T14:34:58+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://dbym4820.github.io/photon/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dbym4820.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/</loc>
     <priority>0</priority>
   </url>
   

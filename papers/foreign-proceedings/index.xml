@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://dbym4820.github.io/papers/foreign-proceedings/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 15 Dec 2018 14:34:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://dbym4820.github.io/papers/foreign-proceedings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://dbym4820.github.io/papers/foreign-proceedings/20181215-icce2018-dsc/</link>
+      <pubDate>Sat, 15 Dec 2018 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/papers/foreign-proceedings/20181215-icce2018-dsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dbym4820.github.io/papers/foreign-proceedings/20171214-acis-6th/</link>
+      <pubDate>Tue, 12 Dec 2017 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/papers/foreign-proceedings/20171214-acis-6th/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
