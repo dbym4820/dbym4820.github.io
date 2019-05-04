@@ -25,6 +25,17 @@
   </url>
   
   <url>
+    <loc>https://dbym4820.github.io/papers/foreign-proceeding/20171214-acis-6th/</loc>
+    <lastmod>2017-12-12T14:34:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dbym4820.github.io/papers/</loc>
+    <lastmod>2017-12-12T14:34:58+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E5%9B%9E/</loc>
     <lastmod>2017-10-06T17:24:08+09:00</lastmod>
   </url>
@@ -61,17 +72,6 @@
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/foreign-proceeding/acis-6th/</loc>
-    <lastmod>2017-09-22T14:34:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dbym4820.github.io/papers/</loc>
-    <lastmod>2017-09-22T14:34:58+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9B%E3%82%9A%E3%82%B9%E3%82%BF%E3%83%BC/</loc>
     <lastmod>2017-09-21T16:43:12+09:00</lastmod>
   </url>
@@ -87,13 +87,13 @@
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/japan-proceedings/jsai-alst-80th/</loc>
-    <lastmod>2017-09-21T14:34:58+09:00</lastmod>
+    <loc>https://dbym4820.github.io/papers/japan-proceedings/20170821-jsise%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A-42th/</loc>
+    <lastmod>2017-08-21T14:34:58+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/japan-proceedings/jsise-%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A-42th/</loc>
-    <lastmod>2017-09-21T14:34:58+09:00</lastmod>
+    <loc>https://dbym4820.github.io/papers/japan-proceedings/20170721-jsai-alst-80th/</loc>
+    <lastmod>2017-07-21T14:34:58+09:00</lastmod>
   </url>
   
   <url>
@@ -112,7 +112,7 @@
   </url>
   
   <url>
-    <loc>https://dbym4820.github.io/papers/japan-proceedings/jsise-%E5%AD%A6%E7%94%9F%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A-2016/</loc>
+    <loc>https://dbym4820.github.io/papers/japan-proceedings/20160326-jsise-%E5%AD%A6%E7%94%9F%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A-2016/</loc>
     <lastmod>2016-03-20T14:34:58+09:00</lastmod>
   </url>
   
