@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>油谷知岐</title>
+    <link>https://dbym4820.github.io/</link>
+    <description>Recent content on 油谷知岐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 03 Feb 2018 18:00:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://dbym4820.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common LispアニメAPIラッパーライブラリSolaの紹介</title>
+      <link>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
+      <pubDate>Sat, 03 Feb 2018 18:00:11 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
+      <description>第4回関西Lispユーザ会にて発表させていただいた，秋研のアニメAPIをCommon Lispから利用するためのライブラリの紹介スライドです． コードはGithub（https://github.com/dbym4820/sola）で公開しています．</description>
+    </item>
+    
+    <item>
+      <title>Common Lispオントロジー（法造）ライブラリ</title>
+      <link>https://dbym4820.github.io/others/common-lisp%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B8%E3%83%BC%E6%B3%95%E9%80%A0%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <pubDate>Sat, 03 Feb 2018 18:00:11 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/common-lisp%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B8%E3%83%BC%E6%B3%95%E9%80%A0%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <description>第4回関西Lispユーザ会にて発表させていただいた，オントロジーライブラリcl-ontologyの紹介です．大阪大学溝口研究室・株式会社エネゲート製オントロジーエディタ「法造」が出力するXMLファイルのパーサ件，オントロジー操作用のライブラリ集です． コードはGithub（https://github.com/dbym4820/cl-ontology）で公開しています．</description>
+    </item>
+    
+    <item>
+      <title>第3回関西Lispユーザ会</title>
+      <link>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E5%9B%9E/</link>
+      <pubDate>Fri, 06 Oct 2017 17:24:08 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E5%9B%9E/</guid>
+      <description>第3回関西Lispユーザ会の資料です． 発表ではなく，ディスカッションのテーマを提示する形になっています．</description>
+    </item>
+    
+    <item>
+      <title>DebianでLispを動かす</title>
+      <link>https://dbym4820.github.io/others/debian%E3%81%A7lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <pubDate>Fri, 22 Sep 2017 18:00:11 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/debian%E3%81%A7lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <description>関西Debian勉強会にて，Lispの話をさせていただきます． スライドにはあんまり内容をかけなかったので，質疑応答で時間を伸ばしたいと思います．</description>
+    </item>
+    
+    <item>
+      <title>ゼミ旅行 in 奈良県天川村</title>
+      <link>https://dbym4820.github.io/post/20170922/</link>
+      <pubDate>Fri, 22 Sep 2017 16:51:26 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/post/20170922/</guid>
+      <description>&lt;p&gt;研究室のゼミ旅行で奈良県天川村に行ってまいりました．&lt;/p&gt;
+
+&lt;p&gt;以前一度訪れたことがありますが，やはりここは水も空気も美味しくて最高ですね！&lt;/p&gt;
+
+&lt;p&gt;普段の疲れをリセットするように楽しめました！&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ABCLを使ってみた</title>
+      <link>https://dbym4820.github.io/others/abcl%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Fri, 22 Sep 2017 15:57:10 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/abcl%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>関西Lispユーザ会の2回めの勉強会にて発表させていただいた資料です．CommonLispのJVM実装の処理系であるABCL(Armed Bear CommonLisp)の使用感について書いたスライド簡単なJava呼び出しの仕方について書いている．</description>
+    </item>
+    
+    <item>
+      <title>関西Lispユーザ会について</title>
+      <link>https://dbym4820.github.io/others/%E7%AC%AC1%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A/</link>
+      <pubDate>Fri, 22 Sep 2017 15:17:21 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/%E7%AC%AC1%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A/</guid>
+      <description>関西Lispユーザ会立ち上げ第1回目ということで最初にさせていただいた関西Lispユーザ会の目的や内容などの概説についてのスライド．</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dbym4820.github.io/papers/acis-6th/</link>
+      <pubDate>Fri, 22 Sep 2017 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/papers/acis-6th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>関西Lispユーザ会構想ポスター</title>
+      <link>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+      <pubDate>Thu, 21 Sep 2017 16:43:12 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
+      <description>関西Lispユーザ会を設立するに当たっての構想イメージ（あくまでイメージであり，決定版ではない）</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dbym4820.github.io/papers/jsai-alst-80th/</link>
+      <pubDate>Thu, 21 Sep 2017 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/papers/jsai-alst-80th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dbym4820.github.io/papers/jsise-%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A-42th/</link>
+      <pubDate>Thu, 21 Sep 2017 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/papers/jsise-%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A-42th/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>products</title>
+      <link>https://dbym4820.github.io/products/</link>
+      <pubDate>Thu, 25 May 2017 16:23:13 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/products/</guid>
+      <description> プロダクト </description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://dbym4820.github.io/about/</link>
+      <pubDate>Thu, 25 May 2017 16:22:54 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/about/</guid>
+      <description> Education  Osaka Prefecture University(Bachalor of science)  Hobbies  Anime, Comic Travel  Skill background  CommonLisp Java PHP(Laravel4, Laravel5, CakePHP) Elixir Javascript Prolog  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dbym4820.github.io/papers/jsise-%E5%AD%A6%E7%94%9F%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A-2016/</link>
+      <pubDate>Sun, 20 Mar 2016 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/papers/jsise-%E5%AD%A6%E7%94%9F%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E4%BC%9A-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
