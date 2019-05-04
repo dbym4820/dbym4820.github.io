@@ -13,37 +13,37 @@
     
     <item>
       <title>Common LispアニメAPIラッパーライブラリSolaの紹介</title>
-      <link>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
+      <link>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</link>
       <pubDate>Sat, 03 Feb 2018 18:00:11 +0900</pubDate>
       
-      <guid>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
+      <guid>https://dbym4820.github.io/others/common-lisp%E3%82%A2%E3%83%8B%E3%83%A1api%E3%83%A9%E3%83%83%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA%E3%81%AE%E7%B4%B9%E4%BB%8B/</guid>
       <description>第4回関西Lispユーザ会にて発表させていただいた，秋研のアニメAPIをCommon Lispから利用するためのライブラリの紹介スライドです． コードはGithub（https://github.com/dbym4820/sola）で公開しています．</description>
     </item>
     
     <item>
       <title>Common Lispオントロジー（法造）ライブラリ</title>
-      <link>https://dbym4820.github.io/others/common-lisp%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B8%E3%83%BC%E6%B3%95%E9%80%A0%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</link>
+      <link>https://dbym4820.github.io/others/common-lisp%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B7%E3%82%99%E3%83%BC%E6%B3%95%E9%80%A0%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/</link>
       <pubDate>Sat, 03 Feb 2018 18:00:11 +0900</pubDate>
       
-      <guid>https://dbym4820.github.io/others/common-lisp%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B8%E3%83%BC%E6%B3%95%E9%80%A0%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/</guid>
+      <guid>https://dbym4820.github.io/others/common-lisp%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B7%E3%82%99%E3%83%BC%E6%B3%95%E9%80%A0%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%83%A9%E3%83%AA/</guid>
       <description>第4回関西Lispユーザ会にて発表させていただいた，オントロジーライブラリcl-ontologyの紹介です．大阪大学溝口研究室・株式会社エネゲート製オントロジーエディタ「法造」が出力するXMLファイルのパーサ件，オントロジー操作用のライブラリ集です． コードはGithub（https://github.com/dbym4820/cl-ontology）で公開しています．</description>
     </item>
     
     <item>
       <title>第3回関西Lispユーザ会</title>
-      <link>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E5%9B%9E/</link>
+      <link>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E5%9B%9E/</link>
       <pubDate>Fri, 06 Oct 2017 17:24:08 +0900</pubDate>
       
-      <guid>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E5%9B%9E/</guid>
+      <guid>https://dbym4820.github.io/others/%E7%AC%AC3%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E5%9B%9E/</guid>
       <description>第3回関西Lispユーザ会の資料です． 発表ではなく，ディスカッションのテーマを提示する形になっています．</description>
     </item>
     
     <item>
       <title>DebianでLispを動かす</title>
-      <link>https://dbym4820.github.io/others/debian%E3%81%A7lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
+      <link>https://dbym4820.github.io/others/debian%E3%81%A6%E3%82%99lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</link>
       <pubDate>Fri, 22 Sep 2017 18:00:11 +0900</pubDate>
       
-      <guid>https://dbym4820.github.io/others/debian%E3%81%A7lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
+      <guid>https://dbym4820.github.io/others/debian%E3%81%A6%E3%82%99lisp%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99/</guid>
       <description>関西Debian勉強会にて，Lispの話をさせていただきます． スライドにはあんまり内容をかけなかったので，質疑応答で時間を伸ばしたいと思います．</description>
     </item>
     
@@ -58,19 +58,19 @@
     
     <item>
       <title>関西Lispユーザ会について</title>
-      <link>https://dbym4820.github.io/others/%E7%AC%AC1%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A/</link>
+      <link>https://dbym4820.github.io/others/%E7%AC%AC1%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E4%BC%9A/</link>
       <pubDate>Fri, 22 Sep 2017 15:17:21 +0900</pubDate>
       
-      <guid>https://dbym4820.github.io/others/%E7%AC%AC1%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A/</guid>
+      <guid>https://dbym4820.github.io/others/%E7%AC%AC1%E5%9B%9E%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E4%BC%9A/</guid>
       <description>関西Lispユーザ会立ち上げ第1回目ということで最初にさせていただいた関西Lispユーザ会の目的や内容などの概説についてのスライド．</description>
     </item>
     
     <item>
       <title>関西Lispユーザ会構想ポスター</title>
-      <link>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC/</link>
+      <link>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9B%E3%82%9A%E3%82%B9%E3%82%BF%E3%83%BC/</link>
       <pubDate>Thu, 21 Sep 2017 16:43:12 +0900</pubDate>
       
-      <guid>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
+      <guid>https://dbym4820.github.io/others/%E9%96%A2%E8%A5%BFlisp%E3%83%A6%E3%83%BC%E3%82%B5%E3%82%99%E4%BC%9A%E6%A7%8B%E6%83%B3%E3%83%9B%E3%82%9A%E3%82%B9%E3%82%BF%E3%83%BC/</guid>
       <description>関西Lispユーザ会を設立するに当たっての構想イメージ（あくまでイメージであり，決定版ではない）</description>
     </item>
     
