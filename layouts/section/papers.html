@@ -42,34 +42,14 @@
 	  <section class="main-content">
 	    <div class="wrapper row">
 	      <div class="small-12 medium-12 column content-one">
-		<h1><u>Documents</u></h1>
-		<br />
-		{{ $paginator := .Paginate (where .Data.Pages "Type" "others" ) 4}}
-
-		{{ range $paginator.Pages.ByDate.Reverse }}
-		
-		
-		<div style="float:left; width:500px; height:200; word-wrap:break-word;">
-		  {{ if isset .Params "anchor" }} 
-		  <a href={{ .Params.anchor }}>					    
-		    <h4><u><i>{{ .Title }}</i></u></h4>
-		  </a>
-		  
-		  {{ .Content }}
-
-		  {{ end }}
-		</div>
-		<div style="float:left; margin-left:20px;">
-		  {{ with .Params.sambnail }}
-		  <img src="{{.}}" width="120" height="90" />
-		  {{ end }}
-		  
-		  {{ with .Params.slidesharesambnail }}
-		  <iframe src="{{.}}" width='220' height='200' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen> </iframe>
-		  {{ end }}
-		</div>
-		{{end}}
-		
+		<h1><u>{{ .Title }}</u></h1>
+		<div style="height:20px;"></div>
+		{{ $paginator := .Paginate (where .Data.Pages "Type" "papers" ) 5}}
+		<ul>
+		  {{ range $paginator.Pages.ByDate.Reverse }}
+		  <li>{{ .Params.paperauthors }}:{{ .Params.papertitle }}, {{ .Params.direction }}, pp.{{ .Params.pagefrom }}-pp.{{ .Params.pageend }}, ({{ .Params.year }}){{ with .Params.others }}, ({{ . }}){{ end }}</li>
+		  {{end}}
+		</ul>
 	      </div>
 	      <div style="float:right">
 		{{ template "_internal/pagination.html" . }}

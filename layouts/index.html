@@ -40,50 +40,51 @@
 	  {{ partial "nav.html" . }}
 
 	  <section class="hero-panel">
-	    <div class="wrapper" style="text-align:left;">
-	      <h1 style="font-family:arial unicode ms">油谷知岐（Tomoki ABURATANI）</h1>
+	    <div class="wrapper" style="text-align:left;margin-bottom:10px;">
+	      <h3 style="font-family:arial unicode ms">油谷知岐（Tomoki ABURATANI）</h3>
 	      <table>
 		<tbody>
 		  <tr>
-		    <td><img src="./img/selfie.jpg" width="100" height="200" /></td>
-		    <td>大阪府立大学大学院 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野 知識システム研究室</td>
+		    <td><img src="{{ .Site.BaseURL }}img/selfie.jpg" width="100" height="200" /></td>
+		    <td>大阪府立大学大学院 人間社会システム科学研究科<br />現代システム科学専攻 知識情報システム学分野<br />知識システム研究室</td>
 		  </tr>
 		</tbody>
+	      </table>
 	    </div>
 	  </section>	  
 
 	  <section class="main-content">
 	    <div class="wrapper row">
 	      <div class="small-12 medium-12 column content-one">
-		<h2 style="font-family:arial unicode ms"><u>研究テーマ</u></h2>
+		<h3 style="font-family:arial unicode ms"><u>研究テーマ</u></h3>
 		<p>セマンティクスアウェアなプレゼン教材に基づくメタ学習の知的学習支援システム</p>
 	      </div>
 	      <br /><hr />
-	      <div class="small-12 medium-12 column content-two" style="text-align:right">
-		<h2 style="font-family:arial unicode ms"><u>興味(キーワード)</u></h2>
-		<p>知的学習支援システム(ITS: Intelligent Tutoring System)，人工知能，オントロジー，セマンティックWeb，学習態度，自己調整学習，暗黙知，メタ認知，メタ学習，学習方略</p>
+	      <div class="small-12 medium-12 column content-two">
+		<h3 style="font-family:arial unicode ms"><u>興味(キーワード)</u></h3>
+		<p>知的学習支援システム，人工知能，オントロジー，セマンティックWeb<br />学習態度，自己調整学習，暗黙知，メタ認知，メタ学習，学習方略</p>
 	      </div>
 	      <br /><hr />
 
 	      <div class="small-12 medium-12 column content-tree">
-		<h2 style="font-family:arial unicode ms"><u>学歴</u></h2>
+		<h3 style="font-family:arial unicode ms"><u>学歴</u></h3>
 		<p>
 		  <ul>
 		    <li>2013年4月-2017年4月：大阪府立大学 現代システム科学域 知識情報システム学類</li>
-		    <li>2017年4月-2019年3月：大阪府立大学大学院 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野</li>
-		    <li>2019年4月-   現在  ：大阪府立大学大学院 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野 博士後期課程</li>
+		    <li>2017年4月-2019年3月：大阪府立大学大学院 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野 修士課程</li>
+ 		    <li>2019年4月-   現在  ：大阪府立大学大学院 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野 博士後期課程</li>
 		  </ul>
 		</p>
 	      </div>
 	      <br /><hr />
 
 	      <div class="small-12 medium-12 column content-tree">
-		<h2 style="font-family:arial unicode ms"><u>主な経歴（学術関係）</u></h2>
+		<h3 style="font-family:arial unicode ms"><u>主な経歴（学術関係）</u></h3>
 		<p>
 		  <ul>
-		    <li>2017年3月-2018年4月：大阪府立大学ティーチング・アシスタント（知識モデリング）</li>
-		    <li>2018年3月-2019年4月：大阪府立大学ティーチング・アシスタント（知識モデリング・知識科学概論）</li>
-		    <li>2019年3月-  現在   ：大阪府立大学ティーチング・アシスタント（知識モデリング・知識情報システム学演習III・プログラミング実践）</li>
+		    <li>2017年3月-2018年4月：大阪府立大学TA（知識モデリング）</li>
+		    <li>2018年3月-2019年4月：大阪府立大学TA（知識モデリング・知識科学概論）</li>
+		    <li>2019年3月-  現在   ：大阪府立大学TA（知識モデリング・知識情報システム学演習III・プログラミング実践）</li>
 		    <li>2019年度 -  現在   ：人工知能学会全国大会学生企画委員</li>
 		  </ul>
 		</p>
@@ -91,7 +92,7 @@
 	      <br /><hr />
 
 	      <div class="small-12 medium-12 column content-tree">
-		<h2 style="font-family:arial unicode ms"><u>主な経歴（その他の活動）</u></h2>
+		<h3 style="font-family:arial unicode ms"><u>主な経歴（その他の活動）</u></h3>
 		<p>
 		  <ul>
 		    <li>2015年 8月          ：本州四端踏破</li>
@@ -103,16 +104,99 @@
 	      <br /><hr />
 
 	      <div class="small-12 medium-12 column content-tree">
-		<h2 style="font-family:arial unicode ms"><u>出版物（論文誌）</u></h2>
-		<p>
-		  <ul>
-		    <li>{{ .Params.paperauthors }}:{{ .Params.papertitle }}, {{ .Params.direction }}, pp.{{ .Params.pagefrom }}-pp.{{ .Params.pageend }}, ({{ .Params.year }}){{ with .Params.others }}, ({{ . }}){{ end }}</li>
-		  </ul>
-		</p>
+		<h3 style="font-family:arial unicode ms"><u>論文誌</u></h3>
+		<div class="wrapper row">
+		  <div class="small-12 medium-12 column content-one">
+		    <div style="height:20px;"></div>
+		    <ol>
+		      {{ with .Sections }}{{ range . }}{{ with .Sections }}{{ range . }}
+		      {{ range .Data.Pages }}
+		      {{ if eq .Params.tag "journal" }}
+		      <li>{{ .Params.paperauthors }}:{{ .Params.papertitle }}, {{ .Params.direction }}, Vol.{{ .Params.papervolume }}, No.{{ .Params.papernumber }}, pp.{{ .Params.pagefrom }}-pp.{{ .Params.pageend }}, ({{ .Params.year }}){{ with .Params.others }}, ({{ . }}){{ end }}.</li>
+		      {{ end }}
+		      {{ end }}
+		      {{ end }}{{ end }}{{ end }}{{ end }}
+		    </ol>
+		  </div>
+		</div>
 	      </div>
 	      <br /><hr />
-	  </section>
-	  
+
+	      <div class="small-12 medium-12 column content-tree">
+		<h3 style="font-family:arial unicode ms"><u>国際会議</u></h3>
+		<div class="wrapper row">
+		  <div class="small-12 medium-12 column content-one">
+		    <div style="height:20px;"></div>
+		    <ol>
+		      {{ with .Sections }}{{ range . }}{{ with .Sections }}{{ range . }}
+		      {{ range .Data.Pages }}
+		      {{ if eq .Params.tag "foreign-proceeding" }}
+		      <li>{{ .Params.paperauthors }}:{{ .Params.papertitle }}, {{ .Params.direction }}, pp.{{ .Params.pagefrom }}-pp.{{ .Params.pageend }}, ({{ .Params.year }}){{ with .Params.others }}, ({{ . }}){{ end }}.</li>
+		      {{ end }}
+		      {{ end }}
+		      {{ end }}{{ end }}{{ end }}{{ end }}
+		    </ol>
+		  </div>
+		</div>
+	      </div>
+	      <br /><hr />
+
+	      <div class="small-12 medium-12 column content-tree">
+		<h3 style="font-family:arial unicode ms"><u>国内会議</u></h3>
+		<div class="wrapper row">
+		  <div class="small-12 medium-12 column content-one">
+		    <div style="height:20px;"></div>
+		    <ol>
+		      {{ with .Sections }}{{ range . }}{{ with .Sections }}{{ range . }}
+		      {{ range .Data.Pages }}
+		      {{ if eq .Params.tag "japan-proceeding" }}
+		      <li>{{ .Params.paperauthors }}:{{ .Params.papertitle }}, {{ .Params.direction }}, pp.{{ .Params.pagefrom }}-pp.{{ .Params.pageend }}, ({{ .Params.year }}){{ with .Params.others }}, ({{ . }}){{ end }}.</li>
+		      {{ end }}
+		      {{ end }}
+		      {{ end }}{{ end }}{{ end }}{{ end }}
+		    </ol>
+		  </div>
+		</div>
+	      </div>
+	      <br /><hr />
+
+	      <div class="small-12 medium-12 column content-tree">
+		<h3 style="font-family:arial unicode ms"><u>特許</u></h3>
+		<div class="wrapper row">
+		  <div class="small-12 medium-12 column content-one">
+		    <div style="height:20px;"></div>
+		    <ol>
+		      {{ range (where .Data.Pages "Type" "patents") }}
+		      <li>{{ .Params.authors }}: {{ .Params.title }}   特開  {{ .Params.number }}, {{ with .Params.others }}, ({{ . }}){{ end }}.</li>
+		      {{ end }}
+		    </ol>
+		  </div>
+		</div>
+	      </div>
+	      <br /><hr />
+
+	      <div class="small-12 medium-12 column content-tree">
+		<h3 style="font-family:arial unicode ms"><u>その他の発表等</u></h3>
+		<div class="wrapper row">
+		  <div class="small-12 medium-12 column content-one">
+		    <div style="height:20px;"></div>
+		    <ul>
+		      {{ range (where .Data.Pages "Type" "presentations") }}
+		      <li>{{ dateFormat "2006年1月2日" .Params.Date  }}：{{ .Params.title }}, <u>{{ .Params.conference }}</u>{{ with .Params.others }}, ({{ . }}){{ end }}.</li>
+		      {{ end }}
+		    </ul>
+		  </div>
+		</div>
+	      </div>
+	      <br /><hr />
+
+
+	      <div style="float:right">
+		{{ template "_internal/pagination.html" . }}
+	      </div>
+	      <div style="clear: both;"></div>		  
+
+	  </section>	  
 	  {{ partial "footer.html" . }}
 	  </div> {{ "<!-- End page content menu wrapper -->" | safeHTML }}
 	  
@@ -129,7 +213,3 @@
       
   </body>
 </html>
-
-
-
-

@@ -1,6 +1,6 @@
 baseurl = "https://dbym4820.github.io/"
 author = "Tomoki Aburatani"
-title = "油谷知岐"
+title = ""
 languageCode = "ja"
 theme = "foundation-theme"
 enableRobotsTXT = true
@@ -8,9 +8,9 @@ SectionPagesMenu = ["main", "social"]
 
 [params.meta]
 description = "大阪府立大学 人間社会システム科学研究科 現代システム科学専攻 知識情報システム学分野 油谷知岐"
-keywords = "大阪府立大学　知識システム　人工知能　知的学習支援システム　教育システム情報学　学習科学　知識科学　学習態度　オントロジー"
 
 [params.main]
+keywords = "大阪府立大学 知識システム 教育システム情報学 学習科学 知識科学 人工知能 学習態度"
 
 [params.footer]
 github = "https://github.com/dbym4820"
@@ -36,4 +36,4 @@ weight = 2
 [[menu.main]]
 name = "Others"
 url = "/others"
-weight = 3	
+weight = 3
