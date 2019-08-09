@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patents on </title>
+    <link>https://dbym4820.github.io/patents/</link>
+    <description>Recent content in Patents on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 05 May 2019 14:34:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://dbym4820.github.io/patents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>対話装置, 発話生成方法, 及びプログラム</title>
+      <link>https://dbym4820.github.io/patents/201904/</link>
+      <pubDate>Sun, 05 May 2019 14:34:58 +0900</pubDate>
+      
+      <guid>https://dbym4820.github.io/patents/201904/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
